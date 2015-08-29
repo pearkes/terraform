@@ -31,7 +31,7 @@
       },
       {
         "type": "atlas",
-        "artifact": "{{user `app_slug` }}",
+        "artifact": "pearkes/terraform",
         "artifact_type": "archive"
       }
     ]
