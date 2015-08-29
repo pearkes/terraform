@@ -21,7 +21,7 @@
         "ls -lah bin",
         "ls -lah pkg"
       ]
-    },
+    }
   ],
   "post-processors": [
     [
