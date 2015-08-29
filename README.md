@@ -85,3 +85,5 @@ TF_ACC=1 go test ./builtin/providers/aws -v -run=Vpc -timeout 90m
 The `TEST` variable is required, and you should specify the folder where the provider is. The `TESTARGS` variable is recommended to filter down to a specific resource to test, since testing all of them at once can take a very long time.
 
 Acceptance tests typically require other environment variables to be set for things such as access keys. The provider itself should error early and tell you what to set, so it is not documented here.
+
+edit
