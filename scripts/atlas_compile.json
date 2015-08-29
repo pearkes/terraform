@@ -2,7 +2,7 @@
   "builders": [
     {
       "type": "docker",
-      "image": "golang:1.5-cross",
+      "image": "golang:1.4.2-cross",
       "commit": true
     }
   ],
